@@ -1,4 +1,4 @@
-number = 5
+number = 6
 
 while number <10:
     print(number)
